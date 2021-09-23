@@ -13,7 +13,7 @@ public class Bala : MonoBehaviour
     public Animator animatorChica;
     int contador = 0;
     public Text contadorText;
-    Transform transformBala;
+    public Transform transformBala;
     public GameObject Panel;
     void Start()
     {
